@@ -103,7 +103,7 @@ class DropZoneSection extends Component {
       if (!network) {
         API_LOCATION = 'https://certs.api.convergence.tech:3002'
       } else if (network==2) {
-        API_LOCATION = 'http://169.48.26.238:3002'
+        API_LOCATION = 'https://trybe.staging.convergence.tech/api/'
       } else  if (network=='dev') {
         API_LOCATION = 'http://localhost:3002'
       }

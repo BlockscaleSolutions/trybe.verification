@@ -7,6 +7,8 @@
     "deploy:docker": "npm run build:docker && npm run push:docker && ssh root@169.48.26.231 './run-container.sh'",
     "watch:docker": "ssh root@169.48.26.231 'docker logs -f trybe-verifier'",
 
+    "deploy:now": "npm run build && npm run export && cd out && now --prod",
+
     "test": "jest",
     "test:watch": "jest --watchAll",
     "test:update": "jest -u",
