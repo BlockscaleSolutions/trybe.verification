@@ -15,7 +15,7 @@
     "dev": "next",
     "lint": "eslint . --ext .js --max-warnings 0",
     "lint:fix": "eslint . --ext .js --fix",
-    "build": "next build && npm run export && cd out",
+    "build": "next build",
     "start:local": "npm run build && cross-env LEGACY_RENDERER_URL=\"http://localhost:3000\" next start -p 3001",
     "build:static": "next build && npm run export",
     "export": "next export",

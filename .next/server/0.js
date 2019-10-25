@@ -20,7 +20,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _sharing_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./sharing.scss */ "./src/components/CertificateSharing/sharing.scss");
 /* harmony import */ var _sharing_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_sharing_scss__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _reducers_certificate__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../reducers/certificate */ "./src/reducers/certificate.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateSharing/CertificateSharingForm.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateSharing/CertificateSharingForm.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 

@@ -93,35 +93,34 @@ class DropZoneSection extends Component {
     const PUBLIC_ROUTE = 'public/cert'
     
     const url = window.location.href
-    // const certParams = url.split(VER_PATH)[1]
-    const query = url.split('?')[1]
-    const [id, network] = query.split('#')
+    
+    try {
+      const query = url.split('?')[1]
+      const [id, network] = query.split('#')
 
-    // If there is a cert id to look up
-    if (query) {
-      // Network IDs: undefined=prod, 2=staging, dev=local
-      if (!network) {
-        API_LOCATION = 'https://certs.api.convergence.tech:3002'
-      } else if (network==2) {
-        API_LOCATION = 'https://trybe.staging.convergence.tech/api/'
-      } else  if (network=='dev') {
-        API_LOCATION = 'http://localhost:3002'
-      }
+      // If there is a cert id to look up
+      if (query) {
+        // Network IDs: undefined=prod, 2=staging, dev=local
+        if (!network) {
+          API_LOCATION = 'https://certs.api.convergence.tech:3002'
+        } else if (network==2) {
+          API_LOCATION = 'https://trybe.staging.convergence.tech/api/'
+        } else  if (network=='dev') {
+          API_LOCATION = 'http://localhost:3002'
+        }
 
-      const API_URL = `${API_LOCATION}/${PUBLIC_ROUTE}`
-
-      try {
+        const API_URL = `${API_LOCATION}/${PUBLIC_ROUTE}`
         const certString = await fetch(`${API_URL}/${id}`)
         const cert = certString ? JSON.parse((await certString.json()).cert) : null
 
         if (cert) {
           this.props.updateCertificate(cert);
         }
-      } catch (err) {
-        // ...
-        console.error(err)
       }
+    } catch (err) {
+      console.error(err)
     }
+    
 
     document.getElementById("demoDrop").addEventListener("drop", e => {
       if (e.dataTransfer.getData(DEMO_CONTENT_KEY)) {

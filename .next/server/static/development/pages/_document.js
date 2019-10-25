@@ -1210,7 +1210,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/document */ "./node_modules/next/document.js");
 /* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_document__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _src_components_Layout_Bootstrap__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../src/components/Layout/Bootstrap */ "./src/components/Layout/Bootstrap.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/pages/_document.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/pages/_document.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1336,7 +1336,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BootstrapJs", function() { return BootstrapJs; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/Bootstrap.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/Bootstrap.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 const BootstrapCss = () => __jsx("link", {

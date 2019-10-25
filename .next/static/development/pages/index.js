@@ -23489,10 +23489,10 @@ Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;va
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Fssi%2Ftrybe.id%2Ftrybe.verification%2Fpages%2Findex.js!./":
-/*!*************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Fssi%2Ftrybe.id%2Ftrybe.verification%2Fpages%2Findex.js ***!
-  \*************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Ftrybe%2Ftrybe.verification%2Fpages%2Findex.js!./":
+/*!****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Ftrybe%2Ftrybe.verification%2Fpages%2Findex.js ***!
+  \****************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32962,7 +32962,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_components_Layout_FooterBar__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../src/components/Layout/FooterBar */ "./src/components/Layout/FooterBar.js");
 /* harmony import */ var _src_components_MainPageContainer__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../src/components/MainPageContainer */ "./src/components/MainPageContainer.js");
 /* harmony import */ var _src_config__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../src/config */ "./src/config/index.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/pages/index.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -33115,7 +33115,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/CertificateDropZoneContainer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/CertificateDropZoneContainer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 
@@ -33302,7 +33302,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Views_DefaultView__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Views/DefaultView */ "./src/components/CertificateDropZone/Views/DefaultView.js");
 /* harmony import */ var _Views_VerifyingView__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Views/VerifyingView */ "./src/components/CertificateDropZone/Views/VerifyingView.js");
 /* harmony import */ var _Views_UnverifiedView__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Views/UnverifiedView */ "./src/components/CertificateDropZone/Views/UnverifiedView.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/CertificateVerificationStatus.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/CertificateVerificationStatus.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -33428,7 +33428,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./viewerStyles.scss */ "./src/components/CertificateDropZone/Views/viewerStyles.scss");
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_viewerStyles_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/Views/DefaultView.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/Views/DefaultView.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -33590,7 +33590,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./viewerStyles.scss */ "./src/components/CertificateDropZone/Views/viewerStyles.scss");
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_viewerStyles_scss__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/Views/UnverifiedView.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/Views/UnverifiedView.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -33809,7 +33809,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/Views/VerifyingView.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/Views/VerifyingView.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -33922,7 +33922,7 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/AboutImages.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/AboutImages.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /* eslint react/display-name: 0 */
@@ -35523,7 +35523,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _aboutSection_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./aboutSection.scss */ "./src/components/HomePageContent/aboutSection.scss");
 /* harmony import */ var _aboutSection_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_aboutSection_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _AboutImages__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AboutImages */ "./src/components/HomePageContent/AboutImages.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/AboutSection.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/AboutSection.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -35818,7 +35818,7 @@ var _Ropsten_Demo__WEBPACK_IMPORTED_MODULE_20___namespace = /*#__PURE__*/__webpa
 
 
 
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/DropZoneSection.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/DropZoneSection.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement;
 
 
@@ -35991,72 +35991,67 @@ function (_Component) {
             switch (_context.prev = _context.next) {
               case 0:
                 PUBLIC_ROUTE = 'public/cert';
-                url = window.location.href; // const certParams = url.split(VER_PATH)[1]
-
+                url = window.location.href;
+                _context.prev = 2;
                 query = url.split('?')[1];
-                _query$split = query.split('#'), _query$split2 = Object(_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_1__["default"])(_query$split, 2), id = _query$split2[0], network = _query$split2[1];
-                console.log(query);
-                console.log(id, network);
-                console.log(id, network);
-                console.log(id, network); // If there is a cert id to look up
+                _query$split = query.split('#'), _query$split2 = Object(_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_1__["default"])(_query$split, 2), id = _query$split2[0], network = _query$split2[1]; // If there is a cert id to look up
 
                 if (!query) {
-                  _context.next = 31;
+                  _context.next = 22;
                   break;
                 }
 
-                // Network IDs: 1=prod, 2=staging
-                if (network == 1) {
+                // Network IDs: undefined=prod, 2=staging, dev=local
+                if (!network) {
                   API_LOCATION = 'https://certs.api.convergence.tech:3002';
                 } else if (network == 2) {
-                  API_LOCATION = 'http://169.48.26.238:3002';
-                } else {
+                  API_LOCATION = 'https://trybe.staging.convergence.tech/api/';
+                } else if (network == 'dev') {
                   API_LOCATION = 'http://localhost:3002';
                 }
 
                 API_URL = "".concat(API_LOCATION, "/").concat(PUBLIC_ROUTE);
-                _context.prev = 11;
-                _context.next = 14;
+                _context.next = 10;
                 return fetch("".concat(API_URL, "/").concat(id));
 
-              case 14:
+              case 10:
                 certString = _context.sent;
 
                 if (!certString) {
-                  _context.next = 23;
+                  _context.next = 19;
                   break;
                 }
 
                 _context.t1 = JSON;
-                _context.next = 19;
+                _context.next = 15;
                 return certString.json();
 
-              case 19:
+              case 15:
                 _context.t2 = _context.sent.cert;
                 _context.t0 = _context.t1.parse.call(_context.t1, _context.t2);
-                _context.next = 24;
+                _context.next = 20;
                 break;
 
-              case 23:
+              case 19:
                 _context.t0 = null;
 
-              case 24:
+              case 20:
                 cert = _context.t0;
 
                 if (cert) {
                   this.props.updateCertificate(cert);
                 }
 
-                _context.next = 31;
+              case 22:
+                _context.next = 27;
                 break;
 
-              case 28:
-                _context.prev = 28;
-                _context.t3 = _context["catch"](11);
-                // ...
+              case 24:
+                _context.prev = 24;
+                _context.t3 = _context["catch"](2);
                 console.error(_context.t3);
 
-              case 31:
+              case 27:
                 document.getElementById("demoDrop").addEventListener("drop", function (e) {
                   if (e.dataTransfer.getData(DEMO_CONTENT_KEY)) {
                     _this2.props.updateCertificate(DEMO_CERT);
@@ -36066,12 +36061,12 @@ function (_Component) {
                   _this2.props.updateCertificate(DEMO_CERT);
                 });
 
-              case 33:
+              case 29:
               case "end":
                 return _context.stop();
             }
           }
-        }, _callee, this, [[11, 28]]);
+        }, _callee, this, [[2, 24]]);
       }));
 
       function componentDidMount() {
@@ -36097,52 +36092,52 @@ function (_Component) {
         className: "row p-5 bg-brand-dark text-white",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 153
+          lineNumber: 146
         },
         __self: this
       }, __jsx("div", {
         className: _dropZoneSection_scss__WEBPACK_IMPORTED_MODULE_15___default.a.main,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 154
+          lineNumber: 147
         },
         __self: this
       }, __jsx("div", {
         className: "col-lg-5 col-md-12",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 155
+          lineNumber: 148
         },
         __self: this
       }, __jsx("div", {
         className: _dropZoneSection_scss__WEBPACK_IMPORTED_MODULE_15___default.a.description,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 156
+          lineNumber: 149
         },
         __self: this
       }, __jsx("h1", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 157
+          lineNumber: 150
         },
         __self: this
       }, "An easy way to check and verify your certificates"), __jsx("p", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 158
+          lineNumber: 151
         },
         __self: this
       }, "Whether you're a student or an employer, Convergence lets you verify the certificates you have of anyone from any institution. All in one place."), __jsx(DraggableDemoCertificate, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 163
+          lineNumber: 156
         },
         __self: this
       }), __jsx(MobileDemoCertificate, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 164
+          lineNumber: 157
         },
         __self: this
       }))), __jsx("div", {
@@ -36150,13 +36145,13 @@ function (_Component) {
         id: "demoDrop",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 167
+          lineNumber: 160
         },
         __self: this
       }, __jsx(_CertificateDropZone__WEBPACK_IMPORTED_MODULE_14__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 168
+          lineNumber: 161
         },
         __self: this
       }))));
@@ -36207,7 +36202,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _partnersPage_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_partnersPage_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _constants_PartnerLogo_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../constants/PartnerLogo.json */ "./src/constants/PartnerLogo.json");
 var _constants_PartnerLogo_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../constants/PartnerLogo.json */ "./src/constants/PartnerLogo.json", 1);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/PartnersSection.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/PartnersSection.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -36308,7 +36303,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _footer_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer.scss */ "./src/components/Layout/footer.scss");
 /* harmony import */ var _footer_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_footer_scss__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/FooterBar.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/FooterBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -36429,7 +36424,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _navBar_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./navBar.scss */ "./src/components/Layout/NavigationBar/navBar.scss");
 /* harmony import */ var _navBar_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_navBar_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/NavigationBar/NavigationBar.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/NavigationBar/NavigationBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -36578,7 +36573,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _HomePageContent_AboutSection__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HomePageContent/AboutSection */ "./src/components/HomePageContent/AboutSection.js");
 /* harmony import */ var _HomePageContent_DropZoneSection__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HomePageContent/DropZoneSection */ "./src/components/HomePageContent/DropZoneSection.js");
 /* harmony import */ var _HomePageContent_PartnersSection__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./HomePageContent/PartnersSection */ "./src/components/HomePageContent/PartnersSection.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/MainPageContainer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/MainPageContainer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -36649,10 +36644,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var _getLogger = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config"),
-    trace = _getLogger.trace;
+    trace = _getLogger.trace; // const { publicRuntimeConfig } = getConfig();
 
-var _getConfig = next_config__WEBPACK_IMPORTED_MODULE_0___default()(),
-    publicRuntimeConfig = _getConfig.publicRuntimeConfig;
 
 var NETWORK_TYPES = {
   INFURA_MAINNET: "INFURA_MAINNET",
@@ -36665,8 +36658,9 @@ var URL = "https://convergence.tech";
 var API_MAIN_URL = "https://api.opencerts.io";
 var API_ROPSTEN_URL = "https://api-ropsten.opencerts.io";
 var GA_PRODUCTION_ID = "UA-130492260-1";
-var GA_DEVELOPMENT_ID = "UA-130492260-2";
-var IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+var GA_DEVELOPMENT_ID = "UA-130492260-2"; // export const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+
+var IS_MAINNET = false;
 var DEFAULT_NETWORK = IS_MAINNET ? NETWORK_TYPES.INFURA_MAINNET : NETWORK_TYPES.INFURA_ROPSTEN;
 var GA_ID = IS_MAINNET ? GA_PRODUCTION_ID : GA_DEVELOPMENT_ID;
 var CAPTCHA_CLIENT_KEY = "6LfiL3EUAAAAAHrfLvl2KhRAcXpanNXDqu6M0CCS";
@@ -36674,8 +36668,10 @@ var EMAIL_API_URL = IS_MAINNET ? "".concat(API_MAIN_URL, "/email") : "".concat(A
 var SHARE_LINK_API_URL = IS_MAINNET ? "".concat(API_MAIN_URL, "/storage") : "".concat(API_ROPSTEN_URL, "/storage");
 var SHARE_LINK_TTL = 1209600;
 var INFURA_PROJECT_ID = "1f1ff2b3fca04f8d99f67d465c59e4ef";
-var LEGACY_OPENCERTS_RENDERER = publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
-var ENVIRONMENT = publicRuntimeConfig.context === "production" ? "production" : "development";
+var LEGACY_OPENCERTS_RENDERER = "https://legacy.opencerts.io/"; // publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
+
+var ENVIRONMENT = "development"; // publicRuntimeConfig.context === "production" ? "production" : "development";
+
 var DEFAULT_SEO = {
   title: "An easy way to check and verify your credentials",
   titleTemplate: "Convergence - %s",
@@ -37551,13 +37547,13 @@ var getLogger = function getLogger(namespace) {
 /***/ }),
 
 /***/ 6:
-/*!*****************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Fssi%2Ftrybe.id%2Ftrybe.verification%2Fpages%2Findex.js ***!
-  \*****************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Ftrybe%2Ftrybe.verification%2Fpages%2Findex.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Fssi%2Ftrybe.id%2Ftrybe.verification%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Fssi%2Ftrybe.id%2Ftrybe.verification%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Ftrybe%2Ftrybe.verification%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fajl%2Fdevelopment%2Ftrybe%2Ftrybe.verification%2Fpages%2Findex.js!./");
 
 
 /***/ }),

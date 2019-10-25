@@ -2,7 +2,7 @@ import getConfig from "next/config";
 import { getLogger } from "../utils/logger";
 
 const { trace } = getLogger("config");
-const { publicRuntimeConfig } = getConfig();
+// const { publicRuntimeConfig } = getConfig();
 
 export const NETWORK_TYPES = {
   INFURA_MAINNET: "INFURA_MAINNET",
@@ -19,7 +19,8 @@ export const API_ROPSTEN_URL = "https://api-ropsten.opencerts.io";
 const GA_PRODUCTION_ID = "UA-130492260-1";
 const GA_DEVELOPMENT_ID = "UA-130492260-2";
 
-export const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+// export const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+export const IS_MAINNET = false;
 
 export const DEFAULT_NETWORK = IS_MAINNET
   ? NETWORK_TYPES.INFURA_MAINNET
@@ -36,10 +37,10 @@ export const SHARE_LINK_API_URL = IS_MAINNET
 export const SHARE_LINK_TTL = 1209600;
 
 export const INFURA_PROJECT_ID = "1f1ff2b3fca04f8d99f67d465c59e4ef";
-export const LEGACY_OPENCERTS_RENDERER =
-  publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
-export const ENVIRONMENT =
-  publicRuntimeConfig.context === "production" ? "production" : "development";
+export const LEGACY_OPENCERTS_RENDERER = "https://legacy.opencerts.io/"
+  // publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
+export const ENVIRONMENT = "development";
+  // publicRuntimeConfig.context === "production" ? "production" : "development";
 
 export const DEFAULT_SEO = {
   title: "An easy way to check and verify your credentials",

@@ -1836,7 +1836,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_config__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../src/config */ "./src/config/index.js");
 /* harmony import */ var _src_reducers_featureToggle__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../src/reducers/featureToggle */ "./src/reducers/featureToggle.js");
 
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/pages/_app.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/pages/_app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 
@@ -2006,10 +2006,8 @@ __webpack_require__.r(__webpack_exports__);
 
 const {
   trace
-} = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config");
-const {
-  publicRuntimeConfig
-} = next_config__WEBPACK_IMPORTED_MODULE_0___default()();
+} = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config"); // const { publicRuntimeConfig } = getConfig();
+
 const NETWORK_TYPES = {
   INFURA_MAINNET: "INFURA_MAINNET",
   INFURA_ROPSTEN: "INFURA_ROPSTEN",
@@ -2021,8 +2019,9 @@ const URL = "https://convergence.tech";
 const API_MAIN_URL = "https://api.opencerts.io";
 const API_ROPSTEN_URL = "https://api-ropsten.opencerts.io";
 const GA_PRODUCTION_ID = "UA-130492260-1";
-const GA_DEVELOPMENT_ID = "UA-130492260-2";
-const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+const GA_DEVELOPMENT_ID = "UA-130492260-2"; // export const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+
+const IS_MAINNET = false;
 const DEFAULT_NETWORK = IS_MAINNET ? NETWORK_TYPES.INFURA_MAINNET : NETWORK_TYPES.INFURA_ROPSTEN;
 const GA_ID = IS_MAINNET ? GA_PRODUCTION_ID : GA_DEVELOPMENT_ID;
 const CAPTCHA_CLIENT_KEY = "6LfiL3EUAAAAAHrfLvl2KhRAcXpanNXDqu6M0CCS";
@@ -2030,8 +2029,10 @@ const EMAIL_API_URL = IS_MAINNET ? `${API_MAIN_URL}/email` : `${API_ROPSTEN_URL}
 const SHARE_LINK_API_URL = IS_MAINNET ? `${API_MAIN_URL}/storage` : `${API_ROPSTEN_URL}/storage`;
 const SHARE_LINK_TTL = 1209600;
 const INFURA_PROJECT_ID = "1f1ff2b3fca04f8d99f67d465c59e4ef";
-const LEGACY_OPENCERTS_RENDERER = publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
-const ENVIRONMENT = publicRuntimeConfig.context === "production" ? "production" : "development";
+const LEGACY_OPENCERTS_RENDERER = "https://legacy.opencerts.io/"; // publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
+
+const ENVIRONMENT = "development"; // publicRuntimeConfig.context === "production" ? "production" : "development";
+
 const DEFAULT_SEO = {
   title: "An easy way to check and verify your credentials",
   titleTemplate: `Convergence - %s`,

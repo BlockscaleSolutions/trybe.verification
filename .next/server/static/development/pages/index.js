@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1910,7 +1910,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_components_Layout_FooterBar__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../src/components/Layout/FooterBar */ "./src/components/Layout/FooterBar.js");
 /* harmony import */ var _src_components_MainPageContainer__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../src/components/MainPageContainer */ "./src/components/MainPageContainer.js");
 /* harmony import */ var _src_config__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../src/config */ "./src/config/index.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/pages/index.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2041,7 +2041,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _reducers_certificate__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../reducers/certificate */ "./src/reducers/certificate.js");
 /* harmony import */ var _reducers_application__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../reducers/application */ "./src/reducers/application.js");
 /* harmony import */ var _CertificateVerificationStatus__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./CertificateVerificationStatus */ "./src/components/CertificateDropZone/CertificateVerificationStatus.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/CertificateDropZoneContainer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/CertificateDropZoneContainer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2193,7 +2193,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Views_DefaultView__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Views/DefaultView */ "./src/components/CertificateDropZone/Views/DefaultView.js");
 /* harmony import */ var _Views_VerifyingView__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Views/VerifyingView */ "./src/components/CertificateDropZone/Views/VerifyingView.js");
 /* harmony import */ var _Views_UnverifiedView__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Views/UnverifiedView */ "./src/components/CertificateDropZone/Views/UnverifiedView.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/CertificateVerificationStatus.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/CertificateVerificationStatus.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2319,7 +2319,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./viewerStyles.scss */ "./src/components/CertificateDropZone/Views/viewerStyles.scss");
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_viewerStyles_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/Views/DefaultView.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/Views/DefaultView.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2480,7 +2480,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./viewerStyles.scss */ "./src/components/CertificateDropZone/Views/viewerStyles.scss");
 /* harmony import */ var _viewerStyles_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_viewerStyles_scss__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/Views/UnverifiedView.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/Views/UnverifiedView.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2697,7 +2697,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateDropZone/Views/VerifyingView.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateDropZone/Views/VerifyingView.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2836,7 +2836,7 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/AboutImages.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/AboutImages.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /* eslint react/display-name: 0 */
@@ -4421,7 +4421,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _aboutSection_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./aboutSection.scss */ "./src/components/HomePageContent/aboutSection.scss");
 /* harmony import */ var _aboutSection_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_aboutSection_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _AboutImages__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AboutImages */ "./src/components/HomePageContent/AboutImages.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/AboutSection.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/AboutSection.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4692,7 +4692,7 @@ var _Ropsten_Demo__WEBPACK_IMPORTED_MODULE_11___namespace = /*#__PURE__*/__webpa
 /* harmony import */ var _Analytics_index__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../Analytics/index */ "./src/components/Analytics/index.js");
 
 
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/DropZoneSection.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/DropZoneSection.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -4829,38 +4829,32 @@ class DropZoneSection extends react__WEBPACK_IMPORTED_MODULE_2__["Component"] {
   async componentDidMount() {
     let API_LOCATION;
     const PUBLIC_ROUTE = 'public/cert';
-    const url = window.location.href; // const certParams = url.split(VER_PATH)[1]
+    const url = window.location.href;
 
-    const query = url.split('?')[1];
-    const [id, network] = query.split('#');
-    console.log(query);
-    console.log(id, network);
-    console.log(id, network);
-    console.log(id, network); // If there is a cert id to look up
+    try {
+      const query = url.split('?')[1];
+      const [id, network] = query.split('#'); // If there is a cert id to look up
 
-    if (query) {
-      // Network IDs: 1=prod, 2=staging
-      if (network == 1) {
-        API_LOCATION = 'https://certs.api.convergence.tech:3002';
-      } else if (network == 2) {
-        API_LOCATION = 'http://169.48.26.238:3002';
-      } else {
-        API_LOCATION = 'http://localhost:3002';
-      }
+      if (query) {
+        // Network IDs: undefined=prod, 2=staging, dev=local
+        if (!network) {
+          API_LOCATION = 'https://certs.api.convergence.tech:3002';
+        } else if (network == 2) {
+          API_LOCATION = 'https://trybe.staging.convergence.tech/api/';
+        } else if (network == 'dev') {
+          API_LOCATION = 'http://localhost:3002';
+        }
 
-      const API_URL = `${API_LOCATION}/${PUBLIC_ROUTE}`;
-
-      try {
+        const API_URL = `${API_LOCATION}/${PUBLIC_ROUTE}`;
         const certString = await fetch(`${API_URL}/${id}`);
         const cert = certString ? JSON.parse((await certString.json()).cert) : null;
 
         if (cert) {
           this.props.updateCertificate(cert);
         }
-      } catch (err) {
-        // ...
-        console.error(err);
       }
+    } catch (err) {
+      console.error(err);
     }
 
     document.getElementById("demoDrop").addEventListener("drop", e => {
@@ -4883,52 +4877,52 @@ class DropZoneSection extends react__WEBPACK_IMPORTED_MODULE_2__["Component"] {
       className: "row p-5 bg-brand-dark text-white",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 153
+        lineNumber: 146
       },
       __self: this
     }, __jsx("div", {
       className: _dropZoneSection_scss__WEBPACK_IMPORTED_MODULE_6___default.a.main,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 154
+        lineNumber: 147
       },
       __self: this
     }, __jsx("div", {
       className: "col-lg-5 col-md-12",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 155
+        lineNumber: 148
       },
       __self: this
     }, __jsx("div", {
       className: _dropZoneSection_scss__WEBPACK_IMPORTED_MODULE_6___default.a.description,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 156
+        lineNumber: 149
       },
       __self: this
     }, __jsx("h1", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 157
+        lineNumber: 150
       },
       __self: this
     }, "An easy way to check and verify your certificates"), __jsx("p", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 158
+        lineNumber: 151
       },
       __self: this
     }, "Whether you're a student or an employer, Convergence lets you verify the certificates you have of anyone from any institution. All in one place."), __jsx(DraggableDemoCertificate, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 163
+        lineNumber: 156
       },
       __self: this
     }), __jsx(MobileDemoCertificate, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 164
+        lineNumber: 157
       },
       __self: this
     }))), __jsx("div", {
@@ -4936,13 +4930,13 @@ class DropZoneSection extends react__WEBPACK_IMPORTED_MODULE_2__["Component"] {
       id: "demoDrop",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 167
+        lineNumber: 160
       },
       __self: this
     }, __jsx(_CertificateDropZone__WEBPACK_IMPORTED_MODULE_5__["default"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 168
+        lineNumber: 161
       },
       __self: this
     }))));
@@ -4987,7 +4981,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _partnersPage_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_partnersPage_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _constants_PartnerLogo_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../constants/PartnerLogo.json */ "./src/constants/PartnerLogo.json");
 var _constants_PartnerLogo_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../constants/PartnerLogo.json */ "./src/constants/PartnerLogo.json", 1);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/HomePageContent/PartnersSection.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/HomePageContent/PartnersSection.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5153,7 +5147,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _footer_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer.scss */ "./src/components/Layout/footer.scss");
 /* harmony import */ var _footer_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_footer_scss__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/FooterBar.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/FooterBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5272,7 +5266,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _navBar_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./navBar.scss */ "./src/components/Layout/NavigationBar/navBar.scss");
 /* harmony import */ var _navBar_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_navBar_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/NavigationBar/NavigationBar.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/NavigationBar/NavigationBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5450,7 +5444,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _HomePageContent_AboutSection__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HomePageContent/AboutSection */ "./src/components/HomePageContent/AboutSection.js");
 /* harmony import */ var _HomePageContent_DropZoneSection__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HomePageContent/DropZoneSection */ "./src/components/HomePageContent/DropZoneSection.js");
 /* harmony import */ var _HomePageContent_PartnersSection__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./HomePageContent/PartnersSection */ "./src/components/HomePageContent/PartnersSection.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/MainPageContainer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/MainPageContainer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5519,10 +5513,8 @@ __webpack_require__.r(__webpack_exports__);
 
 const {
   trace
-} = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config");
-const {
-  publicRuntimeConfig
-} = next_config__WEBPACK_IMPORTED_MODULE_0___default()();
+} = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config"); // const { publicRuntimeConfig } = getConfig();
+
 const NETWORK_TYPES = {
   INFURA_MAINNET: "INFURA_MAINNET",
   INFURA_ROPSTEN: "INFURA_ROPSTEN",
@@ -5534,8 +5526,9 @@ const URL = "https://convergence.tech";
 const API_MAIN_URL = "https://api.opencerts.io";
 const API_ROPSTEN_URL = "https://api-ropsten.opencerts.io";
 const GA_PRODUCTION_ID = "UA-130492260-1";
-const GA_DEVELOPMENT_ID = "UA-130492260-2";
-const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+const GA_DEVELOPMENT_ID = "UA-130492260-2"; // export const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+
+const IS_MAINNET = false;
 const DEFAULT_NETWORK = IS_MAINNET ? NETWORK_TYPES.INFURA_MAINNET : NETWORK_TYPES.INFURA_ROPSTEN;
 const GA_ID = IS_MAINNET ? GA_PRODUCTION_ID : GA_DEVELOPMENT_ID;
 const CAPTCHA_CLIENT_KEY = "6LfiL3EUAAAAAHrfLvl2KhRAcXpanNXDqu6M0CCS";
@@ -5543,8 +5536,10 @@ const EMAIL_API_URL = IS_MAINNET ? `${API_MAIN_URL}/email` : `${API_ROPSTEN_URL}
 const SHARE_LINK_API_URL = IS_MAINNET ? `${API_MAIN_URL}/storage` : `${API_ROPSTEN_URL}/storage`;
 const SHARE_LINK_TTL = 1209600;
 const INFURA_PROJECT_ID = "1f1ff2b3fca04f8d99f67d465c59e4ef";
-const LEGACY_OPENCERTS_RENDERER = publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
-const ENVIRONMENT = publicRuntimeConfig.context === "production" ? "production" : "development";
+const LEGACY_OPENCERTS_RENDERER = "https://legacy.opencerts.io/"; // publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
+
+const ENVIRONMENT = "development"; // publicRuntimeConfig.context === "production" ? "production" : "development";
+
 const DEFAULT_SEO = {
   title: "An easy way to check and verify your credentials",
   titleTemplate: `Convergence - %s`,
@@ -6419,14 +6414,14 @@ const getLogger = namespace => ({
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ajl/development/ssi/trybe.id/trybe.verification/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /home/ajl/development/trybe/trybe.verification/pages/index.js */"./pages/index.js");
 
 
 /***/ }),

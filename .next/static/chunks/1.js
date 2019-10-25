@@ -649,7 +649,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateSharing/CertificateSharingForm.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateSharing/CertificateSharingForm.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 

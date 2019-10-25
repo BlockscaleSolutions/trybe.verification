@@ -121,7 +121,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1961,7 +1961,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_components_ViewerPageContainer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../src/components/ViewerPageContainer */ "./src/components/ViewerPageContainer.js");
 /* harmony import */ var _src_components_PrintWatermark__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../src/components/PrintWatermark */ "./src/components/PrintWatermark.js");
 /* harmony import */ var _src_config__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../src/config */ "./src/config/index.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/pages/viewer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/pages/viewer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2062,7 +2062,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _sharing_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./sharing.scss */ "./src/components/CertificateShareLink/sharing.scss");
 /* harmony import */ var _sharing_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_sharing_scss__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _reducers_certificate__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../reducers/certificate */ "./src/reducers/certificate.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateShareLink/CertificateShareLinkForm.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateShareLink/CertificateShareLinkForm.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2319,7 +2319,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _certificateVerifyBlock_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_certificateVerifyBlock_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _ViewerPageImages__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../ViewerPageImages */ "./src/components/ViewerPageImages.js");
 
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateVerifyBlock/CertificateVerifyBlock.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateVerifyBlock/CertificateVerifyBlock.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -2561,7 +2561,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _detailedCertificateBlock_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./detailedCertificateBlock.scss */ "./src/components/CertificateVerifyBlock/detailedCertificateBlock.scss");
 /* harmony import */ var _detailedCertificateBlock_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_detailedCertificateBlock_scss__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./constants */ "./src/components/CertificateVerifyBlock/constants.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateVerifyBlock/DetailedCertificateVerifyBlock.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateVerifyBlock/DetailedCertificateVerifyBlock.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2861,7 +2861,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _config__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../config */ "./src/config/index.js");
 /* harmony import */ var _CertificateShareLink_CertificateShareLinkForm__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./CertificateShareLink/CertificateShareLinkForm */ "./src/components/CertificateShareLink/CertificateShareLinkForm.js");
 /* harmony import */ var _FeatureFlag__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./FeatureFlag */ "./src/components/FeatureFlag.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/CertificateViewer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/CertificateViewer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3148,7 +3148,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _certificateViewer_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../certificateViewer.scss */ "./src/components/certificateViewer.scss");
 /* harmony import */ var _certificateViewer_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_certificateViewer_scss__WEBPACK_IMPORTED_MODULE_8__);
 /* harmony import */ var _utils_certificate__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../utils/certificate */ "./src/utils/certificate.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/DecentralisedTemplateRenderer/DecentralisedRenderer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/DecentralisedTemplateRenderer/DecentralisedRenderer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -3298,7 +3298,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _error_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./error.scss */ "./src/components/error.scss");
 /* harmony import */ var _error_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_error_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/ErrorBoundary.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/ErrorBoundary.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -3451,7 +3451,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _footer_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer.scss */ "./src/components/Layout/footer.scss");
 /* harmony import */ var _footer_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_footer_scss__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/FooterBar.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/FooterBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3570,7 +3570,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _navBar_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./navBar.scss */ "./src/components/Layout/NavigationBar/navBar.scss");
 /* harmony import */ var _navBar_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_navBar_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Layout/NavigationBar/NavigationBar.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Layout/NavigationBar/NavigationBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3749,7 +3749,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _modal_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modal.scss */ "./src/components/Modal/modal.scss");
 /* harmony import */ var _modal_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_modal_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/Modal/Modal.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/Modal/Modal.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3863,7 +3863,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _certificateViewer_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_certificateViewer_scss__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _reducers_certificate__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../reducers/certificate */ "./src/reducers/certificate.js");
 /* harmony import */ var _UI_Drawer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./UI/Drawer */ "./src/components/UI/Drawer/index.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/MultiTabs.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/MultiTabs.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
 
@@ -3988,7 +3988,7 @@ MultiTabs.propTypes = {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/PrintWatermark.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/PrintWatermark.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4034,7 +4034,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _drawer_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./drawer.scss */ "./src/components/UI/Drawer/drawer.scss");
 /* harmony import */ var _drawer_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_drawer_scss__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/UI/Drawer/drawer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/UI/Drawer/drawer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -4201,7 +4201,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _govtechsg_open_attestation__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_govtechsg_open_attestation__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _reducers_certificate__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../reducers/certificate */ "./src/reducers/certificate.js");
 /* harmony import */ var _CertificateViewer__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./CertificateViewer */ "./src/components/CertificateViewer.js");
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/ViewerPageContainer.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/ViewerPageContainer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -4371,7 +4371,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _CertificateVerifyBlock_certificateVerifyBlock_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CertificateVerifyBlock/certificateVerifyBlock.scss */ "./src/components/CertificateVerifyBlock/certificateVerifyBlock.scss");
 /* harmony import */ var _CertificateVerifyBlock_certificateVerifyBlock_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_CertificateVerifyBlock_certificateVerifyBlock_scss__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/ajl/development/ssi/trybe.id/trybe.verification/src/components/ViewerPageImages.js";
+var _jsxFileName = "/home/ajl/development/trybe/trybe.verification/src/components/ViewerPageImages.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /* eslint react/display-name: 0 */
@@ -4783,10 +4783,8 @@ __webpack_require__.r(__webpack_exports__);
 
 const {
   trace
-} = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config");
-const {
-  publicRuntimeConfig
-} = next_config__WEBPACK_IMPORTED_MODULE_0___default()();
+} = Object(_utils_logger__WEBPACK_IMPORTED_MODULE_1__["getLogger"])("config"); // const { publicRuntimeConfig } = getConfig();
+
 const NETWORK_TYPES = {
   INFURA_MAINNET: "INFURA_MAINNET",
   INFURA_ROPSTEN: "INFURA_ROPSTEN",
@@ -4798,8 +4796,9 @@ const URL = "https://convergence.tech";
 const API_MAIN_URL = "https://api.opencerts.io";
 const API_ROPSTEN_URL = "https://api-ropsten.opencerts.io";
 const GA_PRODUCTION_ID = "UA-130492260-1";
-const GA_DEVELOPMENT_ID = "UA-130492260-2";
-const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+const GA_DEVELOPMENT_ID = "UA-130492260-2"; // export const IS_MAINNET = publicRuntimeConfig.network === "mainnet";
+
+const IS_MAINNET = false;
 const DEFAULT_NETWORK = IS_MAINNET ? NETWORK_TYPES.INFURA_MAINNET : NETWORK_TYPES.INFURA_ROPSTEN;
 const GA_ID = IS_MAINNET ? GA_PRODUCTION_ID : GA_DEVELOPMENT_ID;
 const CAPTCHA_CLIENT_KEY = "6LfiL3EUAAAAAHrfLvl2KhRAcXpanNXDqu6M0CCS";
@@ -4807,8 +4806,10 @@ const EMAIL_API_URL = IS_MAINNET ? `${API_MAIN_URL}/email` : `${API_ROPSTEN_URL}
 const SHARE_LINK_API_URL = IS_MAINNET ? `${API_MAIN_URL}/storage` : `${API_ROPSTEN_URL}/storage`;
 const SHARE_LINK_TTL = 1209600;
 const INFURA_PROJECT_ID = "1f1ff2b3fca04f8d99f67d465c59e4ef";
-const LEGACY_OPENCERTS_RENDERER = publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
-const ENVIRONMENT = publicRuntimeConfig.context === "production" ? "production" : "development";
+const LEGACY_OPENCERTS_RENDERER = "https://legacy.opencerts.io/"; // publicRuntimeConfig.legacyRendererUrl || "https://legacy.opencerts.io/";
+
+const ENVIRONMENT = "development"; // publicRuntimeConfig.context === "production" ? "production" : "development";
+
 const DEFAULT_SEO = {
   title: "An easy way to check and verify your credentials",
   titleTemplate: `Convergence - %s`,
@@ -5514,14 +5515,14 @@ const getLogger = namespace => ({
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!*******************************!*\
   !*** multi ./pages/viewer.js ***!
   \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ajl/development/ssi/trybe.id/trybe.verification/pages/viewer.js */"./pages/viewer.js");
+module.exports = __webpack_require__(/*! /home/ajl/development/trybe/trybe.verification/pages/viewer.js */"./pages/viewer.js");
 
 
 /***/ }),

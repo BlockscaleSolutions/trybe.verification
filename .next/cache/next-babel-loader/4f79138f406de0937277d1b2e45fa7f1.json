@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const types = {\n  UPDATE_FEATURE_TOGGLES: \"UPDATE_FEATURE_TOGGLES\"\n};\nconst initialState = {};\nexport default function reducer(state = initialState, action) {\n  switch (action.type) {\n    case types.UPDATE_FEATURE_TOGGLES:\n      return action.payload;\n\n    default:\n      return state;\n  }\n}","map":null,"metadata":{},"sourceType":"module"}
