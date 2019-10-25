@@ -36049,7 +36049,7 @@ function (_Component) {
               case 24:
                 _context.prev = 24;
                 _context.t3 = _context["catch"](2);
-                console.error(_context.t3);
+                console.log(_context.t3);
 
               case 27:
                 document.getElementById("demoDrop").addEventListener("drop", function (e) {
@@ -36592,12 +36592,6 @@ var MainPageContainer = function MainPageContainer() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
-    },
-    __self: this
-  }), __jsx(_HomePageContent_PartnersSection__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
     },
     __self: this
   }), __jsx(_HomePageContent_AboutSection__WEBPACK_IMPORTED_MODULE_1__["default"], {

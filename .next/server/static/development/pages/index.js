@@ -4854,7 +4854,7 @@ class DropZoneSection extends react__WEBPACK_IMPORTED_MODULE_2__["Component"] {
         }
       }
     } catch (err) {
-      console.error(err);
+      console.log(err);
     }
 
     document.getElementById("demoDrop").addEventListener("drop", e => {
@@ -5462,12 +5462,6 @@ const MainPageContainer = () => __jsx("div", {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 7
-  },
-  __self: undefined
-}), __jsx(_HomePageContent_PartnersSection__WEBPACK_IMPORTED_MODULE_3__["default"], {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 8
   },
   __self: undefined
 }), __jsx(_HomePageContent_AboutSection__WEBPACK_IMPORTED_MODULE_1__["default"], {
