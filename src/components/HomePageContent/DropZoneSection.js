@@ -100,10 +100,10 @@ class DropZoneSection extends Component {
 
       // If there is a cert id to look up
       if (query) {
-        // Network IDs: undefined=prod, 2=staging, dev=local
+        // Network IDs: undefined=prod, staging, dev
         if (!network) {
-          API_LOCATION = 'https://certs.api.convergence.tech:3002'
-        } else if (network==2) {
+          API_LOCATION = 'https://trybe.convergence.tech/api/'
+        } else if (network=='staging') {
           API_LOCATION = 'https://trybe.staging.convergence.tech/api/'
         } else  if (network=='dev') {
           API_LOCATION = 'http://localhost:3002'
