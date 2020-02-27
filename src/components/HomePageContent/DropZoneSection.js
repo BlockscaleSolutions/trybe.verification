@@ -106,7 +106,7 @@ class DropZoneSection extends Component {
         } else if (network=='staging') {
           API_LOCATION = 'https://trybe.staging.convergence.tech/api/'
         } else  if (network=='dev') {
-          API_LOCATION = 'https://dev.trybe.id/api/'
+          API_LOCATION = 'https://api.dev.trybe.id/'
         }
 
         const API_URL = `${API_LOCATION}/${PUBLIC_ROUTE}`
