@@ -5,9 +5,12 @@
     margin: 0 auto;
     padding: 2rem 3rem;
     width: 100%;
+    // position: absolute;
+    bottom: 0;
+    // height: 10rem;
 
     h3 {
-        color: $brand-dark;
+        color: #000;
         border-left: 6px solid $brand-orange;
         padding-left: 2rem;
     }
@@ -21,7 +24,7 @@
 }
 
 #benefits {
-    background-color: $brand-dark !important;
+    background-color: #779ecb !important;
     h3 {
         color: white;
     }

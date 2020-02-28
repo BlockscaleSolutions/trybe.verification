@@ -7,13 +7,13 @@ const View = ({ hover, accept }) => (
       // eslint-disable-next-line no-nested-ternary
       hover ? (accept ? css.accept : css.invalid) : css.default
     }`}
-    style={{ borderRadius: 10 }}
+    style={{ borderRadius: 40 }}
   >
     <div className={css["image-container"]}>
       <i>
         <img
           alt=".opencert Dropzone"
-          src="/static/images/dropzone/dropzone_illustration.svg"
+          src="/static/images/convergence-icon.png"
         />
       </i>
     </div>
@@ -26,15 +26,15 @@ const View = ({ hover, accept }) => (
       className="text-brand-dark"
       style={{ fontSize: "1.375rem", fontWeight: 500 }}
     >
-      Drag and drop your opencert file
+      Verify your credential here.
     </div>
-    <div className="text-muted">to view its contents</div>
+    {/* <div className="text-muted">to view its contents</div> */}
     <div className="text-muted row">
       <div className="col-2" />
       <div className="col-3">
         <hr />
       </div>
-      <div className="col-2">or</div>
+      {/* <div className="col-2">or</div> */}
       <div className="col-3">
         <hr />
       </div>

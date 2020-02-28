@@ -3,7 +3,9 @@ import images from "./AboutImages";
 
 const BenefitsSection = () => (
   <div className={css.section}>
-    <h3>What we can help you do</h3>
+  
+  
+    <h3>Securely verify a credential's authenticity and origin</h3>
     <div className={css.container}>
       <div className="col-lg-4 col-sm-12">
         <div className={css.benefits}>
@@ -33,6 +35,8 @@ const BenefitsSection = () => (
         </div>
       </div>
     </div>
+  
+  
   </div>
 );
 
@@ -76,14 +80,14 @@ const AboutSection = () => (
         <BenefitsSection />
       </div>
     </div>
-    <div className="row bg-light" id="how-it-works">
+    {/* <div className="row bg-light" id="how-it-works">
       <div className={css.main}>
         <div className={css.section}>
           <h3>How it works</h3>
           <HowItWorks />
         </div>
       </div>
-    </div>
+    </div> */}
   </div>
 );
 
