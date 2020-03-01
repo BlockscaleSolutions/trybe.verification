@@ -3,18 +3,20 @@
 .innerbar {
     max-width: 1280px;
     display: flex; 
-    justify-content: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
     margin: 0 auto;
     img {
-        height: 40px;
+        height: 80px;
     }
 }
 
 .navbar {
     display: block; 
     justify-content: flex-start;
+    place-content: right;
     margin: 0 auto;
-    background-color: $brand-dark;
+    background-color: $low-translucency-white;
     padding: 1rem 2rem;
 
     @media print {

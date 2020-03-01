@@ -76,7 +76,7 @@ const AboutSection = () => (
         <BenefitsSection />
       </div>
     </div>
-    <div className="row bg-light" id="how-it-works">
+    <div className="row bg-light" id={css.benefits}>
       <div className={css.main}>
         <div className={css.section}>
           <h3>How it works</h3>

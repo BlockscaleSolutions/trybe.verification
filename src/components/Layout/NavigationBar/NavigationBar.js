@@ -39,7 +39,7 @@ const NavigationBar = ({ active }) => (
   >
     <div className={css.innerbar}>
       <a className="navbar-brand" href="/">
-        <img src="/static/images/white-convergence.png" alt="convergence" />
+        <img src="/static/images/convergence.png" alt="convergence" />
       </a>
       <button
         className={`${css["navbar-toggler"]} d-none`}
@@ -55,6 +55,8 @@ const NavigationBar = ({ active }) => (
 
       <div className="collapse navbar-collapse" id="top-nav">
         {renderNavItem(active)}
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="/static/images/trybeId.png" alt="Trybe.ID" />
       </div>
     </div>
   </nav>
