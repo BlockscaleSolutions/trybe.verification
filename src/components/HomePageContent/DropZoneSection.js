@@ -143,15 +143,13 @@ class DropZoneSection extends Component {
   // eslint-disable-next-line class-methods-use-this
   render() {
     return (
-      <div className="row p-5 bg-brand-dark text-white">
+      <div className="row p-5 bg-low-translucency-white text-brand-dark">
         <div className={css.main}>
           <div className="col-lg-5 col-md-12">
             <div className={css.description}>
-              <h1>An easy way to check and verify your certificates</h1>
+              <h1>Verify your digital credentials</h1>
               <p>
-                Whether you&#39;re a student or an employer, Convergence lets you
-                verify the certificates you have of anyone from any institution.
-                All in one place.
+                Trybe.ID lets you easily verify the credentials you have been presented to confirm if they are valid. Select a file or drag a certificate into the validator to get started.
               </p>
               <DraggableDemoCertificate />
               <MobileDemoCertificate />
